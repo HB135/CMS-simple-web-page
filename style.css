@@ -1,0 +1,33 @@
+body{
+background-image: url('genshin.png');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: #c4fffb;
+}
+
+p{
+color: white;
+}
+
+#header{
+color: black;
+border: solid 1px black;
+background-color: orange;
+text-align: center;   
+}
+
+a {
+color: cyan;
+}
+
+#footer{
+color: black;
+border: solid 1px black;
+background-color:orange;
+text-align: center; 
+}
+
+.BLACK{
+    color: black !important;
+}
